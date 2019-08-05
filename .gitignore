@@ -1,0 +1,10 @@
+/.idea/
+/target/
+
+/eureka-server/.mvn/
+/eureka-server/target/
+
+/eureka-server/mvnw*
+
+
+*.iml
